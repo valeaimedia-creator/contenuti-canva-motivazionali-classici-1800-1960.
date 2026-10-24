@@ -19,12 +19,17 @@ skill/
     references/autori.md  # spunti di autori e opere per tema, attribuzioni false note
 esempi-output/
   citazioni-luce-mattino-ricominciare.pdf   # esempio di documento generato
+  post-instagram-motivazionale-milano.png   # esempio di post Canva
 ```
 
 ## Esempi di output
 
 - **Documento delle citazioni:** [`esempi-output/citazioni-luce-mattino-ricominciare.pdf`](esempi-output/citazioni-luce-mattino-ricominciare.pdf). Tema "Luce, mattino e ricominciare" (24 ottobre 2026). Contiene 8 candidate: 7 verificate e 1 scartata perché senza fonte. Include anche una tabella di confronto per tono e meteo.
-- **Post Canva:** "Post Instagram motivazionale per Milano". [Vedi il design su Canva](https://www.canva.com/d/1R6ex0p8HkwI-bP)
+- **Post Canva:** "Post Instagram motivazionale per Milano" (1080×1440), con la citazione di Thoreau scelta nel documento. [Vedi il design su Canva](https://www.canva.com/d/1R6ex0p8HkwI-bP)
+
+<p align="center">
+  <img src="esempi-output/post-instagram-motivazionale-milano.png" alt="Post Instagram con una citazione di Thoreau da Walden su un'alba sopra Milano" width="420">
+</p>
 
 ## Usare la skill
 
